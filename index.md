@@ -23,7 +23,7 @@ This is a new course, this website will be updated as we go.
 
 We will be discussing the main aspects about metrology and why it is so important in manufacturing. 
 
-[Lecture 1 slides](lectures/lecture_01.pdf)
+[Lecture 1 slides](/lectures/lecture_01.pdf)
 
 #### Optional reading
 
