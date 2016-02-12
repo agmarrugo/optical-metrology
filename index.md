@@ -17,7 +17,7 @@ At the end of the lectures, one would be able to:
 
 ## Outline
 
-This is a new course, this website will be updated as we go.
+This is a new course, this website will be updated as we go along.
 
 ### Lecture 1: Introduction
 
@@ -25,6 +25,19 @@ We will be discussing the main aspects about metrology and why it is so importan
 
 [Lecture 1 slides](lectures/Lecture_01.pdf)
 
-#### Optional reading
+#### Optional Reading
 
-[Optical metrology overview](https://www.dropbox.com/s/xsdnz5gmu0j8rx5/01-optical-metrology-overview.pdf?dl=0)
+- [Optical metrology overview](https://www.dropbox.com/s/xsdnz5gmu0j8rx5/01-optical-metrology-overview.pdf?dl=0)
+
+### Lecture 2: Random Data and Characterization of Measurement Systems
+
+In this lecture we will be discussing about random data, their properties and measurement systems. We will also discuss static and dynamic characterization of measurement systems.
+
+[Lecture 2 slides](lectures/Lecture_02.pdf)
+
+#### Recommended Readings
+
+- [J Bendat and A Piersol - Random Data - Chapter 1](https://www.dropbox.com/s/lzptsc8m0dg5w9a/02-Bendat-Piersol-chapter-01.pdf?dl=0)
+- [A student's guide to Data and Error Analysis - Chapter 5 and 7](https://www.dropbox.com/s/3hce1tc4mder72t/Herman%20J.%20C.%20Berendsen-A%20Student%27s%20Guide%20to%20Data%20and%20Error%20Analysis%20%20-Cambridge%20University%20Press%20%282011%29.pdf?dl=0)
+- [A Beginner's Guide to Uncertainty of Measurement](https://www.dropbox.com/s/vb04rf80028s9m0/mgpg11.pdf?dl=0)
+- [Linear regression](https://en.wikipedia.org/wiki/Regression_analysis#Linear_regression "Regression analysis - Wikipedia, the free encyclopedia")
