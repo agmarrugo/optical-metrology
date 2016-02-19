@@ -51,10 +51,16 @@ For the calculations we will be using Python via Ipython (Jupyter) notebooks. Pl
 The notebooks for this lecture:
 
 - Illustration of Confidence Intervals ([View](http://nbviewer.jupyter.org/github/agmarrugo/optical-metrology/blob/gh-pages/notebooks/confidence-intervals.ipynb), [Download](https://github.com/agmarrugo/optical-metrology/tree/gh-pages)).
-- Calibration ([View](), [Download](https://github.com/agmarrugo/optical-metrology/tree/gh-pages)).
+- Calibration ([View](http://nbviewer.jupyter.org/github/agmarrugo/optical-metrology/blob/gh-pages/notebooks/calibracion.ipynb), [Download](https://github.com/agmarrugo/optical-metrology/tree/gh-pages)).
 
 #### Recommended Readings
 
 - [A Statistical Overview on Univariate Calibration, Inverse Regression, and Detection Limits](pdfs/Mass_Spectrom._Rev._Lavagnini_2006.pdf)
 - [Notes on device calibration](https://www.dropbox.com/s/dafm1fv9am2fcb0/03-NoteDeviceCalibration.pdf?dl=0)
 - [J Bendat and A Piersol - Statistical Principles  - Chapter 4](https://www.dropbox.com/s/hb0nwtfwfv13w26/04-Bendat-Piersol-chapter-04.pdf?dl=0)
+
+### Lecture 3: Light Sources and Imaging Systems
+
+#### Recommended Readings
+
+### Lecture 4: Methods in Surface Measurement
