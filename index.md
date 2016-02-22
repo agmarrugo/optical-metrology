@@ -37,9 +37,9 @@ In this lecture we will be discussing about random data, their properties and me
 
 #### Recommended Readings
 
-- [J Bendat and A Piersol - Random Data - Chapter 1](https://www.dropbox.com/s/lzptsc8m0dg5w9a/02-Bendat-Piersol-chapter-01.pdf?dl=0)
-- [A student's guide to Data and Error Analysis - Chapter 5 and 7](https://www.dropbox.com/s/3hce1tc4mder72t/Herman%20J.%20C.%20Berendsen-A%20Student%27s%20Guide%20to%20Data%20and%20Error%20Analysis%20%20-Cambridge%20University%20Press%20%282011%29.pdf?dl=0)
-- [A Beginner's Guide to Uncertainty of Measurement](https://www.dropbox.com/s/vb04rf80028s9m0/mgpg11.pdf?dl=0)
+- [J Bendat and A Piersol - Random Data - Chapter 1](https://www.dropbox.com/s/ugjrp35xj0dtrsf/02-Bendat-Piersol-chapter-01.pdf?dl=0)
+- [A student's guide to Data and Error Analysis - Chapter 5 and 7](https://www.dropbox.com/s/c44dot2zo9x6bu1/Herman%20J.%20C.%20Berendsen-A%20Student%27s%20Guide%20to%20Data%20and%20Error%20Analysis%20%20-Cambridge%20University%20Press%20%282011%29.pdf?dl=0)
+- [A Beginner's Guide to Uncertainty of Measurement](https://www.dropbox.com/s/tqhsqhfnxyapsqq/mgpg11.pdf?dl=0)
 - [Linear regression](https://en.wikipedia.org/wiki/Regression_analysis#Linear_regression "Regression analysis - Wikipedia, the free encyclopedia")
 
 ### Lecture 2: Cont'd
