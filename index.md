@@ -27,7 +27,7 @@ We will be discussing the main aspects about metrology and why it is so importan
 
 #### Optional Reading
 
-- [Optical metrology overview](https://www.dropbox.com/s/xsdnz5gmu0j8rx5/01-optical-metrology-overview.pdf?dl=0)
+- [Optical metrology overview](pdfs/01-optical-metrology-overview.pdf)
 
 ### Lecture 2: Random Data and Characterization of Measurement Systems
 
@@ -37,9 +37,9 @@ In this lecture we will be discussing about random data, their properties and me
 
 #### Recommended Readings
 
-- [J Bendat and A Piersol - Random Data - Chapter 1](https://www.dropbox.com/s/ugjrp35xj0dtrsf/02-Bendat-Piersol-chapter-01.pdf?dl=0)
-- [A student's guide to Data and Error Analysis - Chapter 5 and 7](https://www.dropbox.com/s/c44dot2zo9x6bu1/Herman%20J.%20C.%20Berendsen-A%20Student%27s%20Guide%20to%20Data%20and%20Error%20Analysis%20%20-Cambridge%20University%20Press%20%282011%29.pdf?dl=0)
-- [A Beginner's Guide to Uncertainty of Measurement](https://www.dropbox.com/s/tqhsqhfnxyapsqq/mgpg11.pdf?dl=0)
+- [J Bendat and A Piersol - Random Data - Chapter 1](pdfs/02-Bendat-Piersol-chapter-01.pdf)
+- [A student's guide to Data and Error Analysis - Chapter 5 and 7](pdfs/guide-to-data-and-error-analysis.pdf)
+- [A Beginner's Guide to Uncertainty of Measurement](pdfs/mgpg11.pdf)
 - [Linear regression](https://en.wikipedia.org/wiki/Regression_analysis#Linear_regression "Regression analysis - Wikipedia, the free encyclopedia")
 
 ### Lecture 2: Cont'd
@@ -56,10 +56,12 @@ The notebooks for this lecture:
 #### Recommended Readings
 
 - [A Statistical Overview on Univariate Calibration, Inverse Regression, and Detection Limits](pdfs/Mass_Spectrom._Rev._Lavagnini_2006.pdf)
-- [Notes on device calibration](https://www.dropbox.com/s/dafm1fv9am2fcb0/03-NoteDeviceCalibration.pdf?dl=0)
-- [J Bendat and A Piersol - Statistical Principles  - Chapter 4](https://www.dropbox.com/s/hb0nwtfwfv13w26/04-Bendat-Piersol-chapter-04.pdf?dl=0)
+- [Notes on device calibration](pdfs/03-NoteDeviceCalibration.pdf)
+- [J Bendat and A Piersol - Statistical Principles  - Chapter 4](pdfs/04-Bendat-Piersol-chapter-04.pdf)
 
 ### Lecture 3: Light Sources and Imaging Systems
+
+In this lecture we will discuss 
 
 #### Recommended Readings
 
