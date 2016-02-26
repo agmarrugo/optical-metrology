@@ -53,16 +53,24 @@ The notebooks for this lecture:
 - Illustration of Confidence Intervals ([View](http://nbviewer.jupyter.org/github/agmarrugo/optical-metrology/blob/gh-pages/notebooks/confidence-intervals.ipynb), [Download](https://github.com/agmarrugo/optical-metrology/tree/gh-pages)).
 - Calibration ([View](http://nbviewer.jupyter.org/github/agmarrugo/optical-metrology/blob/gh-pages/notebooks/calibracion.ipynb), [Download](https://github.com/agmarrugo/optical-metrology/tree/gh-pages)).
 
+Exercise:
+
+- [Fiting data.](http://nbviewer.jupyter.org/github/agmarrugo/optical-metrology/blob/gh-pages/notebooks/fitting.ipynb)
+
 #### Recommended Readings
 
 - [A Statistical Overview on Univariate Calibration, Inverse Regression, and Detection Limits](pdfs/Mass_Spectrom._Rev._Lavagnini_2006.pdf)
 - [Notes on device calibration](pdfs/03-NoteDeviceCalibration.pdf)
 - [J Bendat and A Piersol - Statistical Principles  - Chapter 4](pdfs/04-Bendat-Piersol-chapter-04.pdf)
 
-### Lecture 3: Light Sources and Imaging Systems
+### Lecture 3: Basic Optical Principles and Imaging Systems
 
-In this lecture we will discuss 
+In this lecture we will discuss the Basic Optical Principles and Imaging Systems.
+
+[Lecture 3 slides](lectures/Lecture_03.pdf)
 
 #### Recommended Readings
+
+- [Gasvik - Optical Metrology - Chapters 1 and 2](pdfs/gasvik-01-02.pdf)
 
 ### Lecture 4: Methods in Surface Measurement
