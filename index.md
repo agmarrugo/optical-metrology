@@ -74,3 +74,18 @@ In this lecture we will discuss the Basic Optical Principles and Imaging Systems
 - [Gasvik - Optical Metrology - Chapters 1 and 2](pdfs/gasvik-01-02.pdf)
 
 ### Lecture 4: Methods in Surface Measurement
+
+In this lecture we introduce several basic concepts about surface measurements and characterization. The quantification of roughness and the different roughness scores. How roughness is related to the manufacturing process.
+
+[Lecture 4 slides](lectures/Lecture_04.pdf)
+
+#### Recommended Readings
+
+- [David Whitehose - Surfaces and their Measurement - Chapters 2 and 4](pdfs/whitehouse-surfaces-and-their-measurement-(2002).pdf)
+
+### Lecture 5: Interferometry
+
+In this lecture we describe the principles of interferometry and how it is used for measuring surfaces.
+
+[MATLAB code](mcode.zip)
+
