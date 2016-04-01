@@ -88,4 +88,17 @@ In this lecture we introduce several basic concepts about surface measurements a
 In this lecture we describe the principles of interferometry and how it is used for measuring surfaces.
 
 [MATLAB code](mcode.zip)
+[Lecture 5 slides](lectures/Lecture_05.pdf)
+
+### Lecture 6: Phase-Shifting Systems and Phase-Shifting Analysis
+
+In this lecture we discuss the several systems for producing phase-shifting fringe patterns and their digital analysis for recovering topographic 3D information.
+
+[Lecture 6 slides](lectures/Lecture_06.pdf)
+[Simulated fringe images](Simul_Franjas_Dec.zip)
+
+#### Recommended Readings
+
+- [Phase-Shifting Systems - Handbook of Optical Dimensional Metrology](pdfs/phase-shifting-systems-kevin-g-harding-handbook-of-optical-dimensional-metrology.pdf)
+
 
