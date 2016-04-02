@@ -89,6 +89,7 @@ In this lecture we describe the principles of interferometry and how it is used 
 
 [MATLAB code](mcode.zip)
 [Lecture 5 slides](lectures/Lecture_05.pdf)
+[NDfile read](nd2file.m)
 
 ### Lecture 6: Phase-Shifting Systems and Phase-Shifting Analysis
 
