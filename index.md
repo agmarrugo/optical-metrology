@@ -104,4 +104,4 @@ In this lecture we discuss the several systems for producing phase-shifting frin
 
 ### Pending
 
-[Pending assignments](lectures/_Pending.pdf)
+[Pending assignments](lectures/Pending.pdf)
