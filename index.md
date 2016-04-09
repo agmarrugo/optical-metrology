@@ -102,4 +102,6 @@ In this lecture we discuss the several systems for producing phase-shifting frin
 
 - [Phase-Shifting Systems - Handbook of Optical Dimensional Metrology](pdfs/phase-shifting-systems-kevin-g-harding-handbook-of-optical-dimensional-metrology.pdf)
 
+### Pending
 
+[Pending assignments](Lectures/_Pending.pdf)
