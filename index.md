@@ -105,3 +105,9 @@ In this lecture we discuss the several systems for producing phase-shifting frin
 ### Pending
 
 [Pending assignments](lectures/Pending.pdf)
+
+### Lecture 7: Moiré and Triangulation
+
+In this lecture we discuss the principles of Moiré and the application for measuring in-plane and out-of-plane displacements. The basics of triangulation.
+
+[Lecture 7 slides](lectures/Lecture_07.pdf)
