@@ -111,3 +111,12 @@ In this lecture we discuss the several systems for producing phase-shifting frin
 In this lecture we discuss the principles of Moiré and the application for measuring in-plane and out-of-plane displacements. The basics of triangulation.
 
 [Lecture 7 slides](lectures/Lecture_07.pdf)
+
+### Lecture 8: Measurement of Strain by Digital Image Correlation
+
+In this lecture we discuss the principles of Digital Image Correlation for measuring in-plain deformations and strains. We also analyze simulation and experimental data using .
+
+[Lecture 8 slides](lectures/Lecture_08.pdf)
+[Matlab DIC code](matlab-dic-code.zip)
+[Data set 1](dataset01.zip)
+[Data set 2](dataset02.zip)
